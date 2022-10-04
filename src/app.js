@@ -15,4 +15,4 @@ app.use((req,res,next)=>{
     });
 })
 
-app.listen(port,()=>console.log(`Corriendo en pueerto: ${port}`));
+app.listen(port,()=>console.log(`Corriendo en puerto: ${port}`));
